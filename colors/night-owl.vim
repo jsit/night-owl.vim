@@ -39,6 +39,7 @@ hi Constant guifg=#addb67 ctermfg=149 guibg=#011627 ctermbg=233 gui=NONE cterm=N
 hi String guifg=#ecc48d ctermfg=222 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi Identifier guifg=#7fdbca ctermfg=116 gui=NONE cterm=NONE
 hi Statement guifg=#82aaff ctermfg=111 gui=NONE cterm=NONE
+hi Title guifg=#82aaff ctermfg=111 gui=NONE cterm=NONE
 hi Operator guifg=#c792ea ctermfg=176 gui=NONE cterm=NONE
 hi Exception guifg=#addb67 ctermfg=149 gui=NONE cterm=NONE
 hi PreProc guifg=#c792ea ctermfg=176 gui=NONE cterm=NONE
